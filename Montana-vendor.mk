@@ -963,7 +963,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/montana/proprietary/vendor/lib/motorola.hardware.camera.device@1.0_vendor.so:/system/vendor/lib/motorola.hardware.camera.device@1.0_vendor.so \
     vendor/motorola/montana/proprietary/vendor/lib/motorola.hardware.camera.provider@2.4.so:/system/vendor/lib/motorola.hardware.camera.provider@2.4.so \
     vendor/motorola/montana/proprietary/vendor/lib/motorola.hardware.camera.provider@2.4_vendor.so:/system/vendor/lib/motorola.hardware.camera.provider@2.4_vendor.so \
-    vendor/motorola/montana/proprietary/lib/libstagefright_soft_flacdec.so:/system/lib/libcameraservice.so \
+    vendor/motorola/montana/proprietary/lib/libstagefright_soft_flacdec.so:/system/lib/libstagefright_soft_flacdec.so \
     vendor/motorola/montana/proprietary/vendor/lib/vendor.display.color@1.0.so:/system/vendor/lib/vendor.display.color@1.0.so \
     vendor/motorola/montana/proprietary/vendor/lib/vendor.display.color@1.1.so:/system/vendor/lib/vendor.display.color@1.1.so \
     vendor/motorola/montana/proprietary/vendor/lib/vendor.display.postproc@1.0.so:/system/vendor/lib/vendor.display.postproc@1.0.so \
